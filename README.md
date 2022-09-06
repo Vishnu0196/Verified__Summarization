@@ -169,6 +169,3 @@ Configure the following input variables inside the code:
 - **test_set**: Disaster events on which you want to test.
 
 
-## VERISUMM
-
-Code coming up soon!!
