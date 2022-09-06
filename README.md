@@ -1,5 +1,4 @@
-# Verified__Summarization
-
+# Verified Summarization
 
 If this code is helpful in your research, please cite the following publication
 
